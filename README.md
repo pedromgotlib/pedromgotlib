@@ -21,7 +21,7 @@ Meet me at 👇🏻
 ## My favorite tools
 To program: <br>
 ![VSC Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-<br>
+<br><br>
 To design: <br>
 ![PS Badge](https://img.shields.io/badge/Adobe%20Photoshop-00255e?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 
