@@ -12,9 +12,7 @@ I am a lover of challenges and highly interested in learning. Observant and atte
 
 Meet me at 👇🏻
 
-![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitelink=https://github.com/pedromgotlib)  ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitelink=https://www.linkedin.com/in/pedro-miguel-gotlib-consoli-95b979208/) ![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=whitelink=behance.net/pedromgotlib)
-
-
+<a href="https://github.com/pedromgotlib"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <a href="https://www.linkedin.com/in/pedro-miguel-gotlib-consoli-95b979208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="https://www.behance.net/pedromgotlib"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
 
 ## My skills
 
