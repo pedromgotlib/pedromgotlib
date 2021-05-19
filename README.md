@@ -30,7 +30,5 @@ To design: <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromgotlib&layout=compact)
 
-![Pedro Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromgotlib&show_icons=true&theme=radical)
-
 
 - Thank you for visiting my profile, check back often! 😉
