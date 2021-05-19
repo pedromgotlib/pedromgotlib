@@ -10,7 +10,7 @@ I am a lover of challenges and highly interested in learning. Observant and atte
 -  Looking for challenges in Front-End. 🏡
 - Knowledge and interest in Web Design and Graphic Design. 💻
 
-Meet me at 👇🏻
+Find me at 👇🏻
 
 <a href="https://github.com/pedromgotlib"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <a href="https://www.linkedin.com/in/pedro-miguel-gotlib-consoli-95b979208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="https://www.behance.net/pedromgotlib"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
 
